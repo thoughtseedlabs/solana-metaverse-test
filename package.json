@@ -22,6 +22,7 @@
         "access": "public"
     },
     "scripts": {
+        "start": "cd packages/starter/react-ui-starter && craco start",
         "clean": "lerna run clean",
         "build": "lerna run build",
         "test": "lerna run test",
