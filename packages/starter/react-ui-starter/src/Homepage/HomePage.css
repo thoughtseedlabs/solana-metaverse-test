@@ -1,0 +1,33 @@
+.div1 {
+    background-color: rgba(37, 37, 37, 0.815);
+}
+
+.navstyle {
+    background-image: linear-gradient(to right, #af2896, #519af4);
+}
+
+.a1 {
+    position: relative;
+    left: 16px;
+}
+
+.span1 {
+    color: white;
+    position: relative;
+    right: -20px;
+    font-size: 20px;
+}
+.ulist {
+    display: flex;
+    margin-top: 1%;
+}
+
+.ulist {
+    font-size: 13px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+hr{
+    margin-left: 450px;
+  }
