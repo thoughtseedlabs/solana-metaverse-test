@@ -52,14 +52,14 @@ export default class Navebar extends Component {
                     <ul class="navbar-nav ml-auto">
                         <Link to="/Wallet">
                             <li className="nav-item-connect li">
-                                <a class="nav-link" type="button">
+                                <a class="nav-link" href = "/#" type="button">
                                     <b>Connect</b>
                                 </a>
                             </li>
                         </Link>
 
                         <li className="nav-item-sett" style = {{color: 'white'}}>
-                            <a class="nav-link" href="#"  >
+                            <a class="nav-link" href = "/#" >
                                 <i class="far fa-cog"></i>
                             </a>
                         </li>

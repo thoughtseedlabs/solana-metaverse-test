@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Navebar from './Navebar';
 import img2 from '../assets/charac.png';
 import img3 from '../assets/metaplex.png';
 import img4 from '../assets/equ.png';
